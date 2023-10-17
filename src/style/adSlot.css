@@ -1,0 +1,11 @@
+/* AdSlot.css */
+.ad-slot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+  
+    transition: background-color 0.3s;
+  }
+  
+ 
